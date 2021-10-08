@@ -1,5 +1,5 @@
 # sa-pp-issues
-San Andreas Police Pursuits issue tracker.
+San Andreas Police Pursuits issue tracker (thanks to the Alt:V team for templates [Alt:V &nearr;](https://altv.mp/#/).
 
 ## How do I&hellip;?
 
