@@ -14,7 +14,7 @@ San Andreas Police Pursuits issue tracker (thanks to the Alt:V team for template
 
 ## I want to report a bug or a feature
 
-1. [Open a new issue &nearr;](https://github.com/altmp/altv-issues/issues/new/choose), choose suitable option and follow the template.
+1. [Open a new issue &nearr;](https://github.com/SA-PP/sa-pp-issues/issues/new/choose), choose suitable option and follow the template.
 1. Provide any additional information necessary for us to reproduce the problem such as steps to reproduce.
 1. No concrete information or failure to comply with template, can lead to issue being solved longer or to its closure.
 
