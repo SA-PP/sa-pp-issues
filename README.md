@@ -8,7 +8,7 @@ San Andreas Police Pursuits issue tracker (thanks to the Alt:V team for template
 ## I think I found a bug
 
 1. Review the issues in the [Issue Tracker &nearr;](https://github.com/SA-PP/sa-pp-issues/issues). Maybe someone has already reported it and it'll be fixed soon.
-1. The problem might have also been fixed. In this case, you'll find the issue in [the closed issues list &nearr;](https://github.com/SA-PP/sa-pp-issues/issues).
+1. The problem might have also been fixed. In this case, you'll find the issue in [the closed issues list &nearr;](https://github.com/SA-PP/sa-pp-issues/issues?q=is%3Aissue+is%3Aclosed).
 1. If you cannot find your issue, [follow the reproduction steps guide below](#I-want-to-report-a-bug-or-a-feature). We'll look into it.
 
 
