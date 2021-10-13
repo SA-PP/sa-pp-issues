@@ -12,7 +12,7 @@ San Andreas Police Pursuits issue tracker (thanks to the Alt:V team for template
 1. If you cannot find your issue, [follow the reproduction steps guide below](#I-want-to-report-a-bug-or-a-feature). We'll look into it.
 
 
-## I want to report a bug or a feature
+## I want to report a bug
 
 1. [Open a new issue &nearr;](https://github.com/SA-PP/sa-pp-issues/issues/new/choose), choose suitable option and follow the template.
 1. Provide any additional information necessary for us to reproduce the problem such as steps to reproduce.
